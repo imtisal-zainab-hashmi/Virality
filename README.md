@@ -5,8 +5,8 @@ VIRALITY is a demo app for estimating how a short-form video might perform befor
 The app can run with built-in demo data or call the Fastn `analyze-virality` workflow. Demo predictions are illustrative and are not guarantees of real-world performance.
 
 <p align="center">
-  <img src="images/xug7.png" width="250">
-  <img src="images/xug1.png" width="250">
+  <img src="virality/1.png" width="250">
+  <img src="virality/2.png" width="250">
 </p>
 
 ## Contents
@@ -36,8 +36,8 @@ The app can run with built-in demo data or call the Fastn `analyze-virality` wor
 ## Run locally
 
 <p align="center">
-  <img src="images/xug7.png" width="250">
-  <img src="images/xug1.png" width="250">
+  <img src="virality/3.png" width="250">
+  <img src="virality/4.png" width="250">
 </p>
 
 ### Requirements
@@ -65,12 +65,15 @@ Open the local address printed by the development server (the default Vite port 
 
 ## Use the demo
 
-1. Choose a platform.
-2. Select a sample clip, or choose/drop in a video file.
-3. Select **Predict virality**.
-4. Review the report. Choose suggested edits to see their cumulative illustrative score boost, or select **New analysis** to start over.
+[View this project on GitHub](https://virality-pro.lovable.app)
+
 
 With no Fastn endpoint configured, analysis uses deterministic built-in demo data based on the video title and platform. Sample clips are hosted by Mixkit and need an internet connection to play.
+
+<p align="center">
+  <img src="virality/5.png" width="250">
+  <img src="virality/6.png" width="250">
+</p>
 
 ## Connect to Fastn
 
