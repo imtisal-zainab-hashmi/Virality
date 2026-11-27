@@ -146,6 +146,4 @@ The app uses TanStack Start for routing and server functions, React and TypeScri
 - **Your uploaded video is not analyzed by Fastn:** This is the current limitation described above; local uploads are preview-only.
 - **Fastn settings disappeared:** Settings are saved in the current browser’s local storage. Re-enter them when using another browser or device.
 
-## Continue the project
 
-Open the project in Lovable to continue editing, or work on the source locally and push changes to the connected repository. Keep Fastn credentials out of source control
